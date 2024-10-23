@@ -1,13 +1,34 @@
-## Hi there 👋
+## 👋 Hey there, I'm Callista!
 
-My name is Callista Dembegiotis. I am a 4th year undergraduate student in Computer Science at McGill University. I am currently into Web Devlopment with most of my experience in frontend development but I am curious to develop my backend dev skills! 
+I am a **4th year Computer Science student** at McGill University with an interest in **Web Development**. Most of my experience has been in frontend but I am eager to expand my backend knowledge. Having taken a variery of classes in ML, Data Science, and more, I am always open to learning new things!
 
-# Technology Stack
 
-# My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callistadem&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 **Skills**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callistadem&show_icons=true&theme=radical)
+**Tools/Technologies**:  
+`Python` `Java` `JavaScript` `C` `HTML/CSS` `Bash` `SQL`
+
+**Frameworks**:  
+`React.js`
+
+**Spoken Languages**:  
+`English` `French` `Greek` `Spanish`
+
+
+## 🌱 **What I am currently learning**:
+- Data Science
+- Distributed Systems
+- NLP
+- Computational Biology 
+
+
+## 📫 **How to reach me**:
+- Email: [callista.dembegiotis@gmail.com](mailto:callista.dembegiotis@gmail.com)
+- LinkedIn: [Callista Dembegiotis](https://linkedin.com/in/callista-dembegiotis)
+
+<!--
+## My Github Stats
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callistadem&show_icons=true&theme=radical)
 
 
 
