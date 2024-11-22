@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Callista!
 
-I am a **4th year Computer Science student** at McGill University with an interest in **Web Development**. Most of my experience has been in frontend but I am eager to expand my backend knowledge. Having taken a variery of classes in ML, Data Science, and more, I am always open to learning new things! 
+I am a **4th year Computer Science student** at McGill University with an interest in **Web Development**. Most of my experience has been in frontend but I am eager to expand my backend knowledge. Having taken a variety of classes in ML, Data Science, and more, I am always open to learning new things! 
 
 After my Bachelor's degree and I plan on pursuing a Master's in Computer Science. I am currently looking for a Winter and/or Summer 2025 internship. 
 
