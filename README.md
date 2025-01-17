@@ -17,10 +17,14 @@ I plan on pursuing a Master's in Computer Science as of Fall 2025. I am currentl
 `English` `French` `Greek` `Spanish`
 
 
-## 🌱 What I am currently working on :
+## 🌱 What I am currently working on
 - Learning iOS app development on Udemy
 - Coding a personal portfolio website
 
+## 🌟 What I do when I'm not coding :)
+- Hot yoga
+- Photography (recently got a Fujifilm x100v that I've been loving!)
+- Traveling (I went on exchange in the Netherlands for 6 months!)
 
 ## 📫 **How to reach me**:
 - Email: [callista.dembegiotis@gmail.com](mailto:callista.dembegiotis@gmail.com)
