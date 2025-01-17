@@ -17,7 +17,7 @@ I plan on pursuing a Master's in Computer Science as of Fall 2025. I am currentl
 `English` `French` `Greek` `Spanish`
 
 
-## 🌱 **What I am currently working on **:
+## 🌱 What I am currently working on :
 - Learning iOS app development on Udemy
 - Coding a personal portfolio website
 
