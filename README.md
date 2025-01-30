@@ -8,10 +8,13 @@ I plan on pursuing a Master's in Computer Science as of Fall 2025. I am currentl
 ## 🚀 **Skills**
 
 **Tools/Technologies**:  
-`Python` `Java` `JavaScript` `C` `HTML/CSS` `Bash` `SQL`
+`Python` `Java` `JavaScript` `C` `HTML/CSS` `Bash` `SQL` `Linux`
 
 **Frameworks**:  
-`React.js`
+`React.js` 
+
+**IDEs**:  
+`Visual Studio Code` `Xcode` `PyCharm` `IntelliJ`
 
 **Spoken Languages**:  
 `English` `French` `Greek` `Spanish`
