@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Callista!
 
-I recently graduated from my **BSc Computer Science** at McGill University. I am interested in **Web Development**; most of my experience has been in frontend but I am eager to expand my backend knowledge. Having taken a variety of classes in ML, Data Science, and more, I am always open to learning new things! 
+I recently graduated from my **BSc Computer Science** at McGill University. I am interested in **Web Development**; most of my experience has been in frontend but I am eager to expand my backend knowledge. I am also currently in the process of learning iOS developement. Having taken a variety of classes in ML, Data Science, and more, I am always open to learning new things! 
 
 I plan on pursuing a Master's in Computer Science as of Fall 2025. I am currently looking for a Summer 2025 internship. 
 
@@ -8,7 +8,7 @@ I plan on pursuing a Master's in Computer Science as of Fall 2025. I am currentl
 ## 🚀 **Skills**
 
 **Tools/Technologies**:  
-`Python` `Java` `JavaScript` `C` `HTML/CSS` `Bash` `SQL` `Linux`
+`Python` `Java` `JavaScript` `HTML/CSS` `Swift``C` `Bash` `SQL` `Linux`
 
 **Frameworks**:  
 `React.js` 
