@@ -11,7 +11,7 @@ I plan on pursuing a Master's in Computer Science as of Fall 2025. I am currentl
 `Python` `Java` `JavaScript` `HTML/CSS` `Swift` `C` `Bash` `SQL` `Linux`
 
 **Frameworks**:  
-`React.js` 
+`React.js` `Vue.js`
 
 **IDEs**:  
 `Visual Studio Code` `Xcode` `PyCharm` `IntelliJ`
