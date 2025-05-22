@@ -2,7 +2,7 @@
 
 I recently graduated from my **BSc Computer Science** at McGill University. I am interested in **Web Development**; most of my experience has been in frontend but I am eager to expand my backend knowledge. I am also currently in the process of learning iOS developement. Having taken a variety of classes in ML, Data Science, and more, I am always open to learning new things! 
 
-I plan on pursuing a Master's in Computer Science as of Fall 2025. I am currently looking for a Summer 2025 internship. 
+This summer I am currently working as a software developer intern at LiveGuard and I will be starting my Master's in Computer science this fall! 
 
 
 ## 🚀 **Skills**
