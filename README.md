@@ -2,7 +2,7 @@
 
 I graduated from my **B.Sc. Computer Science** at McGill University and I am currently looking for full-time positions as a **Software Developer**. 
 
-I am interested in **Fullstack Web Development** with experience in designing and implementing web apps from beginning to end: designing the database, creating API endpoints, and implementing the frontend. I am also currently in the process of learning iOS developement. However, having taken a variety of classes in ML, Data Science, and more, I am always open to learning new things! 
+I am interested in **Fullstack Development** with experience in designing and implementing web apps from beginning to end: designing the database, creating API endpoints, and implementing the frontend. I am also currently in the process of learning iOS developement. However, having taken a variety of classes in ML, Data Science, and more, I am always open to learning new things! 
 
 My previous positions include being a software developer intern at LiveGuard, a Monteal-based startup, a technical sales intern at IBM Canada, and a teaching assistant at McGill University. 
 
