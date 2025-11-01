@@ -16,7 +16,7 @@ My previous positions include being a software developer intern at LiveGuard, a 
 `React.js` `Vue.js` `Node.js` `Express`
 
 **Databases**:  
-`PostegreSQL` `MySQL`
+`PostgreSQL` `MySQL`
 
 **IDEs**:  
 `Visual Studio Code` `Xcode` `PyCharm` `IntelliJ`
