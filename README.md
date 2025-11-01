@@ -13,7 +13,10 @@ My previous positions include being a software developer intern at LiveGuard, a 
 `Python` `Java` `JavaScript` `GoLang` `HTML/CSS` `Swift` `C` `Bash` `SQL`
 
 **Frameworks**:  
-`React.js` `Vue.js`
+`React.js` `Vue.js` `Node.js` `Express`
+
+**Databases**:  
+`PostegreSQL` `MySQL`
 
 **IDEs**:  
 `Visual Studio Code` `Xcode` `PyCharm` `IntelliJ`
