@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Callista!
 
-I graduated from my **B.Sc. Computer Science** at McGill University and I am currently looking for full-time positions as a **Software Developer**. 
+I graduated from my **B.Sc. Computer Science** at McGill University and I am currently working as a Junior Software Engineer at Bloom & Wild. 
 
 I am interested in **Fullstack Development** with experience in designing and implementing web apps from beginning to end: designing the database, creating API endpoints, and implementing the frontend. I am also currently in the process of learning iOS developement. However, having taken a variety of classes in ML, Data Science, and more, I am always open to learning new things! 
 
@@ -10,16 +10,16 @@ My previous positions include being a software developer intern at LiveGuard, a 
 ## 🚀 **Skills**
 
 **Programming Languages**:  
-`Python` `Java` `JavaScript` `GoLang` `HTML/CSS` `Swift` `C` `Bash` `SQL`
+`Python` `JavaScript` `TypeScript` `Java` `GoLang` `HTML/CSS` `Swift` `C` `Bash` `SQL`
 
 **Frameworks**:  
-`React.js` `Vue.js` `Node.js` `Express`
+`Angular` `React.js` `Vue.js` `Node.js` `Express`
 
 **Databases**:  
 `PostgreSQL` `MySQL`
 
 **IDEs**:  
-`Visual Studio Code` `Xcode` `PyCharm` `IntelliJ`
+`Cursor` `Visual Studio Code` `Xcode` `PyCharm` `IntelliJ`
 
 **Spoken Languages**:  
 `English` `French` `Greek` `Spanish`
@@ -28,7 +28,7 @@ My previous positions include being a software developer intern at LiveGuard, a 
 ## 🌟 What I do when I'm not coding :)
 - Hot yoga
 - Photography (recently got a Fujifilm x100v that I've been loving!)
-- Traveling (I went on exchange in the Netherlands for 6 months!)
+- Traveling 
 
 ## 📫 **How to reach me**:
 - Email: [callista.dembegiotis@gmail.com](mailto:callista.dembegiotis@gmail.com)
