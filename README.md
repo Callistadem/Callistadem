@@ -27,6 +27,7 @@ My previous positions include being a software developer intern at LiveGuard, a 
 
 ## 🌟 What I do when I'm not coding :)
 - Hot yoga
+- Knitting
 - Photography (recently got a Fujifilm x100v that I've been loving!)
 - Traveling 
 
